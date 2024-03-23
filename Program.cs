@@ -20,7 +20,7 @@ public class Tweet
 // Klasa reprezentująca zestaw danych tweetów
 public class Data
 {
-    public List<Tweet>? data { get; set; } 
+    public List<Tweet> data { get; set; } 
 }
 
 class Program
